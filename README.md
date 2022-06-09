@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Minskwind.github.io/rsschool-cv/
