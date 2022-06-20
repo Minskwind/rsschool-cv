@@ -1,4 +1,3 @@
-
 # Siarhei Navatortsau
 
 
@@ -15,4 +14,35 @@ Telegram: @SerAkhill
 ### Briefly about myself:
 I worked as an English teacher from 2015 to 2019. My occupation was to teach children English. In 2019 I went abroad - to teach English in China. That was an awesome experience!
 
-After I come back from China I've found myself in IT sphere. I worked as Customer support Specialist in several companies. It gave me the opportunity to observe and to know wider this area.
+After I come back from China I've found myself in IT sphere. I worked as Customer support specialist in several companies. It gave me the opportunity to observe and to know wider this area.
+
+# Skills
+
+-   HTML
+-   CSS/SASS
+-   JavaScript (Basic)
+-   Git
+
+## Code example
+
+```
+function sum(a, b) {
+  return a + b;
+}
+
+let result = sum(1, 2);
+alert( result );
+```
+
+## Experience
+
+- University: Minsk State Linguistic University
+- Courses: 
+	-  [CSS lessons](https://ru.code-basics.com/languages/css)
+	-   [HTML Lessons](https://ru.code-basics.com/languages/html)
+	-   [HTML Academy](https://www.htmlacademy.ru/)
+
+## English
+
+- C1 (I can communicate easily and spontaneously in a clear and detailed manner)
+- C1 (I can communicate easily and spontaneoner)
