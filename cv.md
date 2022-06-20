@@ -44,5 +44,5 @@ alert( result );
 
 ## English
 
-- C1 (I can communicate easily and spontaneously in a clear and detailed manner)
-- C1 (I can communicate easily and spontaneoner)
+- B2 (I can communicate easily and spontaneously in a clear and detailed manner)
+
